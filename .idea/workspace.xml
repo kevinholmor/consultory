@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e5890b6e-5fa2-4c43-b110-5492565e74ae" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Guitar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Consultory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fruit.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Inventory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jewel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -61,8 +63,17 @@
       <workItem from="1676037356008" duration="3612000" />
       <workItem from="1676295401146" duration="1202000" />
       <workItem from="1676334297498" duration="260000" />
-      <workItem from="1676380220575" duration="541000" />
+      <workItem from="1676380220575" duration="2165000" />
+      <workItem from="1676461038487" duration="263000" />
     </task>
+    <task id="LOCAL-00001" summary="Se creo la clase Guitar">
+      <created>1676380875423</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676380875423</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,6 +105,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Se creo la clase Guitar" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se creo la clase Guitar" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
